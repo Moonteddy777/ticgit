@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 i want to asleep me me
 =======
 i want to asleep
 >>>>>>> ad8952a (Added a list of current applications)
+=======
+i want to asleep me me
+>>>>>>> 1b6c550 (New application added)
